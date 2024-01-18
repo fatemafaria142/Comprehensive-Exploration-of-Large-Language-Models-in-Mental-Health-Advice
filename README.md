@@ -23,3 +23,6 @@ The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an improved instruct 
 
 ### TinyLlama-1.1B
 TinyLlama-1.1B is a versatile language model specifically tailored for chat-based applications. It provides a nuanced approach to generating advice and suggestions, making it suitable for mental health-related tasks. Explore TinyLlama-1.1B [here](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0).
+
+### Starling-LM-7B-alpha
+Starling-7B, an exceptional open large language model by Reinforcement Learning from AI Feedback (RLAIF). Fueled by the robust GPT-4 labeled ranking dataset, berkeley-nest/Nectar, and an innovative reward training and policy tuning pipeline, Starling-7B-alpha shines with an impressive 8.09 MT Bench score. Access Starling-LM-7B-alpha [here](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha).
