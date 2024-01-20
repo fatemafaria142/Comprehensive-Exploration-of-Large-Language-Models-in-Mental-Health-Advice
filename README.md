@@ -27,5 +27,5 @@ TinyLlama-1.1B is a versatile language model specifically tailored for chat-base
 ### Starling-LM-7B-alpha
 Starling-7B, an exceptional open large language model by Reinforcement Learning from AI Feedback (RLAIF). Fueled by the robust GPT-4 labeled ranking dataset, berkeley-nest/Nectar, and an innovative reward training and policy tuning pipeline, Starling-7B-alpha shines with an impressive 8.09 MT Bench score. Access Starling-LM-7B-alpha [here](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha).
 
-### OpenChat-3.5-0106
-OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning. Access OpenChat-3.5-0106 [here](https://huggingface.co/openchat/openchat-3.5-0106).
+### OpenChat 3.5 1210
+OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning. Access OpenChat 3.5 1210 [here](https://huggingface.co/openchat/openchat-3.5-0106).
