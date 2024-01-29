@@ -34,6 +34,6 @@ OpenChat is an innovative library of open-source language models, fine-tuned wit
 
 This is a framework specifically designed to simplify building applications powered by large language models (LLMs).
 It provides tools for:
-Context-awareness: Connecting LLMs to various sources of context, like prompts, examples, and relevant content, for more informed responses.
-Reasoning: Enabling LLMs to reason about provided information and take appropriate actions based on that reasoning.
-Composable Chains: Building complex application logic by chaining together smaller LLM interactions and other components.
+* Context-awareness: Connecting LLMs to various sources of context, like prompts, examples, and relevant content, for more informed responses.
+* Reasoning: Enabling LLMs to reason about provided information and take appropriate actions based on that reasoning.
+* Composable Chains: Building complex application logic by chaining together smaller LLM interactions and other components.
