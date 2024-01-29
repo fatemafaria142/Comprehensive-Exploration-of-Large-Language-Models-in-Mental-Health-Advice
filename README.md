@@ -29,3 +29,11 @@ Starling-7B, an exceptional open large language model by Reinforcement Learning 
 
 ### OpenChat 3.5 1210
 OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning. Access OpenChat 3.5 1210 [here](https://huggingface.co/openchat/openchat-3.5-1210).
+
+## LangChain Framework:
+
+This is a framework specifically designed to simplify building applications powered by large language models (LLMs).
+It provides tools for:
+Context-awareness: Connecting LLMs to various sources of context, like prompts, examples, and relevant content, for more informed responses.
+Reasoning: Enabling LLMs to reason about provided information and take appropriate actions based on that reasoning.
+Composable Chains: Building complex application logic by chaining together smaller LLM interactions and other components.
