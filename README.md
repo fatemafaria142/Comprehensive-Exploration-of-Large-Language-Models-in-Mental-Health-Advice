@@ -15,6 +15,9 @@ Explore the complete Mental Health Counseling Conversations dataset [here](https
 
 ## Language Models
 
+### Llama-2-7b-chat-hf
+Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Llama-2-Chat are optimized for dialogue use cases. Llama 2 is an auto-regressive language model that uses an optimized transformer architecture. The tuned versions use supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF) to align to human preferences for helpfulness and safety. Grab the model [here](https://huggingface.co/NousResearch/Llama-2-7b-chat-hf).
+
 ### Mistral-7B-v0.1
 Mistral-7B-v0.1 is a powerful large language model designed for various natural language processing tasks. With its extensive capabilities, it serves as a valuable tool for generating responses to mental health-related questions. Access Mistral-7B-v0.1 [here](https://huggingface.co/mistralai/Mistral-7B-v0.1).
 
